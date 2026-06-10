@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <h1>hello world</h1>
+      <h1 className="text-3xl font-bold underline">音楽生成アプリ</h1>
     </div>
   );
 }
