@@ -101,7 +101,7 @@ function CreatePage() {
               <source src={generatedMusic} type="audio/mpeg" />
             </audio>
             <br />
-            <button onClick={handleSave}>音楽っを保存</button>
+            <button onClick={handleSave}>音楽を保存</button>
           </div>
         )}
       </div>
